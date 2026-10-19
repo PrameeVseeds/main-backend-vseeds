@@ -1,0 +1,29 @@
+# Dependencies
+node_modules/
+dist
+# Build
+dist/
+dist.*
+
+# Environment
+.env
+
+# Logs
+logs/
+*.log
+
+# Uploads
+uploads/
+
+# Database dumps
+db-dumps/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
